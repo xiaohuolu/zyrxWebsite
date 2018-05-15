@@ -1,0 +1,30 @@
+/*公共*/
+ 	.tit_font{
+ 		font-size:26px;
+ 		margin-bottom:10px;
+ 	}
+ 	.p_text{
+ 		line-height:30px;
+ 		font-size:14px;
+ 	}
+/*服务内容*/
+	.s_service span{
+ 		font-size:70px;
+ 		margin-bottom:20px;
+ 	}
+ 	.p_text{
+ 		line-height:30px;
+ 		font-size:14px;
+ 	}
+ 	.s_service:hover{
+ 		background:#eee;
+ 	}
+ 	
+/*网站建设*/
+.superiority_t{
+	color:rgb(187,75,68);
+	font-size:30px;
+}
+.price{
+	margin-top:100px;
+}
